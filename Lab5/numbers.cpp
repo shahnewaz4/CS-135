@@ -3,7 +3,8 @@ Author: Shahnewaz Azad
 Course: CSCI-135
 Assignment: Lab5
 
-Implementation of functions isDivisibleBy, isPrime, nextPrime, and countPrimes
+Implementation of functions isDivisibleBy, isPrime, nextPrime, countPrimes
+isTwinPrime, nextTwinPrime, and largestTwinPrime
 */
 
 #include <iostream>
