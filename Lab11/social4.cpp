@@ -2,8 +2,8 @@
 Author: Shahnewaz Azad
 Course: CSCI-135
 Assignment: Lab11D
- 
-Implementing following feature so users can follow each other
+
+Implementing following feature users can create posts and print out timeline of users
 */
 
 #include <iostream>
