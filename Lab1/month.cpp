@@ -1,6 +1,6 @@
 /*
 Author: Shahnewaz Azad
-Course: CSCI-136
+Course: CSCI-135
 Assignment: Lab1D
 
 C++ project that prints the days in a month, taking into account if it isa leap year or not

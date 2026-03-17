@@ -1,6 +1,6 @@
 /*
 Author: Shahnewaz Azad
-Course: CSCI-136
+Course: CSCI-135
 Assignment: Lab3D
 
 Parses data and prints out date and elevation in reverse

@@ -1,6 +1,6 @@
 /*
 Author: Shahnewaz Azad
-Course: CSCI-136
+Course: CSCI-135
 Assignment: Lab2A
 
 Prints the squared number as long it is within the range

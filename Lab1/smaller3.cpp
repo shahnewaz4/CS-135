@@ -1,6 +1,6 @@
 /*
 Author: Shahnewaz Azad
-Course: CSCI-136
+Course: CSCI-135
 Assignment: Lab1B
 
 Beginner C++ project that gives the smallest of 3 numbers

@@ -1,6 +1,6 @@
 /*
 Author: Shahnewaz Azad
-Course: CSCI-136
+Course: CSCI-135
 Assignment: Lab3A
 
 Prints out the storage for the basin at the given date based on the tsv

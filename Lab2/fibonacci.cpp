@@ -1,6 +1,6 @@
 /*
 Author: Shahnewaz Azad
-Course: CSCI-136
+Course: CSCI-135
 Assignment: Lab2D
 
 Computes and prints Fibonacci numbers from F(0) to F(59)
