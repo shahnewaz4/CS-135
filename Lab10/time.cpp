@@ -3,7 +3,7 @@ Author: Shahnewaz Azad
 Course: CSCI-135
 Assignment: Lab10
  
-Implementing functions minutesSinceMidnight, minutesUntil, addMinutes, printTimeSlot, scheduleAfter, timeOverlap, 
+Implementing functions minutesSinceMidnight, minutesUntil, addMinutes, printTimeSlot, scheduleAfter, timeOverlap
 
 */
 
