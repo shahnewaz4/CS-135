@@ -1,9 +1,9 @@
 /*
 Author: Shahnewaz Azad
 Course: CSCI-135
-Assignment: Lab12A
+Assignment: Lab12D
 
-Function for returning a vector for n integers
+Function for returning pairwise sum
 */
 
 #include <iostream>

@@ -3,7 +3,7 @@ Author: Shahnewaz Azad
 Course: CSCI-135
 Assignment: Lab12C
 
-Function for returning a vector for n integers
+Function for combining 2 vectors in ascending order
 */
 
 
