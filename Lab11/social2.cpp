@@ -1,10 +1,9 @@
 /*
 Author: Shahnewaz Azad
 Course: CSCI-135
-Assignment: Lab10
+Assignment: Lab11B
  
-Implementing functions minutesSinceMidnight, minutesUntil, addMinutes, printTimeSlot, scheduleAfter, timeOverlap
-
+Implementing Network class that uses Profiles and stores multiple users
 */
 
 
@@ -43,17 +42,17 @@ public:
 
 class Network {
 private:
-  static const int MAX_USERS = 20; // max number of user profiles
-  int numUsers;                    // number of registered users
-  Profile profiles[MAX_USERS];     // user profiles array:
+    static const int MAX_USERS = 20; // max number of user profiles
+    int numUsers;                    // number of registered users
+    Profile profiles[MAX_USERS];     // user profiles array:
                                    // mapping integer ID -> Profile
 
   // Returns user ID (index in the 'profiles' array) by their username
   // (or -1 if username is not found)
     int findID (string usrn){
         for (int i = 0; i < numUsers; i++) {
-        if (profiles[i].getUsername() == usrn) {
-            return i;
+            if (profiles[i].getUsername() == usrn) {
+                return i;
             }
         }
         return -1;
@@ -67,12 +66,12 @@ public:
     // return true if the operation was successful, otherwise return false
     bool addUser(string usrn, string dspn){
         if (usrn == "") {
-        return false;
+            return false;
         }
         if (numUsers < MAX_USERS && findID(usrn) == -1) {
             for (int i = 0; i < usrn.length(); i++) {
                 if (!isalnum(usrn[i])) {
-                return false;
+                    return false;
                 }
             }
             Profile p(usrn, dspn);
